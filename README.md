@@ -2,7 +2,9 @@
 
 Bank managment system project is a mini console based application developed using C programming language.
 It is useful for managing customer bank accounts but there is also admin panel for managing employees.
-Main data strcuture used in this project is linked list and all data is saved/read in/from files located in `./src/Data` folder.<br/>
+Main data strcuture used in this project is linked list and all data is saved/read in/from files located in `./src/Data` folder.
+
+<br/>
 
 ## Instructions
 
