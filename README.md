@@ -7,7 +7,7 @@ Main data strcuture used in this project is linked list and all data is saved/re
 ## Instructions
 
 After you [clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) you can open and run the application in any IDE that can run C/C++ files.
-When the application starts you will be prompted with login panel where you have to enter employee ID and password.
+<br/><br/>When the application starts you will be prompted with login panel where you have to enter employee ID and password.
 You can use default login credentials that I provided in [section](#default-login-credentials) below or you can add a new employee/admin record in [Employees.txt](src/Data/Employees.txt) file.
 That file can me modified but make sure you follow the right syntaxt `EmployeeId FirstName LastName Password RoleId`.
 Roles can be found [here](src/Enum/RoleEnum.h).
