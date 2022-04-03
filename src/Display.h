@@ -19,7 +19,7 @@
 // ------------- FUNCTION PROTOTYPES --------------
 void PrintHeader();
 void PrintTime();
-void PrintOptions(Employee, Role);
+void PrintOptions(Role);
 int BackspaceOption(int);
 // ------------------------------------------------
 
