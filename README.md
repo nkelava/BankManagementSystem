@@ -4,7 +4,7 @@ Bank managment system project is a mini console based application developed usin
 It is useful for managing customer bank accounts but there is also admin panel for managing employees.
 Main data strcuture used in this project is linked list and all data is saved/read in/from files located in `./src/Data` folder. 
 
-<br>
+<br/>
 ## Instructions
 
 After you [clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) you can open and run the application in any IDE that can run C/C++ files.
@@ -16,14 +16,14 @@ If the login is successful you will see a main menu (options are listed in [Feat
 Final important thing to mention is `Manage employees option` and that option leads you to admin panel where you can manage employees.
 That't it. Thanks for visiting the repository and I hope you will enjoy using and playing with the app.
 
-<br>
+<br/>
 ## Default Login Credentials
 
 Id             | Password
 ---------------|---------------------
 0              | admin
 
-<br>
+<br/>
 ## Features
 
 - Employee/Admin login
